@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+      "id": 2,
+      "smart_contract": "No"
+    },
+    {
+      "id": 2,
+     "smart_contract": "No"
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
