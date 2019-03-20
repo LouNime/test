@@ -2,11 +2,18 @@
   "users": [
     {
       "id": 1,
+      "description": "No smart contract",
       "smart_contract": "No"
     },
     {
       "id": 2,
-     "smart_contract": "No"
+      "description": "Yes smart contract, no transit pass",
+      "smart_contract": "Da mettere"
+    },
+    {
+      "id": 3,
+      "description": "Yes smart contract, yes transit pass",
+      "smart_contract": "Da mettere"
     }
   ]
   
