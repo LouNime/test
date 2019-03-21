@@ -8,12 +8,12 @@
     {
       "id": 2,
       "description": "Yes smart contract, no transit pass",
-      "smart_contract": "0xA5bd5DDa9dDfcd8f1C5e4C0F640e6cfb96706eBc"
+      "smart_contract": "0x06b956604EFea193E1B9385a090B46E09C1D9134"
     },
     {
       "id": 3,
       "description": "Yes smart contract, yes transit pass",
-      "smart_contract": "0x504463fe0965e218EE4Fc7D46c40e3bA596aba76"
+      "smart_contract": "0xafEBc896C49962B281Ce37188EFfd7aE51ec61bC"
     }
   ]
   
